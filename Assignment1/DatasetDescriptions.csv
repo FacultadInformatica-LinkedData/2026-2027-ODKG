@@ -1,1 +1,2 @@
 Your name; Your GitHub user; Dataset name; Dataset URL; Dataset brief description
+Rosángeles Carrión;RosangelesCarrion;DBnary;https://kaiko.getalp.org/;Multilingual lexical resource extracted from Wiktionary and published as Linguistic Linked Open Data in RDF with the W3C OntoLex-Lemon vocabulary. Covers 27 Wiktionary language editions, is re-extracted twice a month, and offers Turtle dumps plus a public SPARQL endpoint. The content is written and curated by volunteer Wiktionary contributors, not by any public administration. License CC BY-SA 3.0.
